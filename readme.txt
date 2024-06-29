@@ -1,5 +1,5 @@
 # Git it Write - Write posts from GitHub
-Contributors: vaakash
+Contributors: vaakash, papanyanko
 Author URI: https://www.aakashweb.com/
 Plugin URI: https://www.aakashweb.com/wordpress-plugins/git-it-write/
 Tags: github, markdown, editor, publish, posts, wordpress, import, custom post types
@@ -9,6 +9,9 @@ Requires PHP: 5.3
 Requires at least: 4.4
 Tested up to: 6.5.2
 Stable tag: 1.9
+
+Modifier URI: https://papanyanko.com/
+Plugin URI: https://github.com/papanyanko/My-Git-It-Write
 
 Publish markdown files present in a GitHub repository as posts to WordPress automatically
 
